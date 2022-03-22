@@ -1,0 +1,30 @@
+.FormUsers{
+    width: 800px;
+    margin: 2rem;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 5%;
+    display:flex;
+    position: relative;
+}
+.FormUsers img{
+    width: 20%;
+    margin: 1rem;
+}
+.input-container{
+    margin :1rem;
+    display: inline-block;
+}
+.input-container label{
+    margin :.5rem;
+}
+.input-container input{
+    width:150px;
+}
+form{
+    text-align: left;
+}
+form button{
+    margin: 1rem;
+}
